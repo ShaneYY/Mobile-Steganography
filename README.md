@@ -4,7 +4,7 @@ Steganography Android App: Beta Version
 1. Hide 324 bits with 800x800 image, using 40x40 blocks, storage can
 be increased by segmentation.
 
-2. Use hsv color model, easy to code/decode, hardly be affected by
+2. Use hsv color model, easy to encode/decode, hardly be affected by
 hardware conditions, swap V value of centre/rest areas for embedding.
 Change offset value to balance invisibility & performance.
 
