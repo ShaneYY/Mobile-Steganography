@@ -1,5 +1,5 @@
 # Mobile-Steganography
-Steganography Android APP: Beta Version
+Steganography Android App: Beta Version
 
 1. Hide 324 bits with 800x800 image, using 40x40 blocks, storage can
 be increased by segmentation.
