@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Steganography</string>
+    <string name="capture_image">Snap</string>
+    <string name="save_image">Pick</string>
+    <string name="recapture_image">Retake</string>
+    <string name="default_text">Steganography is the hiding of a secret message within an ordinary message and the extraction of it at its destination.</string>
+    <string name="camera_hint">Keep the image object inside the red box, best performance with white background</string>
+    <string name="reveal_image">Reveal</string>
+</resources>
